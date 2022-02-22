@@ -59,7 +59,7 @@ public class Main {
         tree.traverse(tree.getRoot());
 
         // Create a string data array to avoid typing loads of addItem instructions:
-        String stringData = "Darwin Brisbane Perth Melbourne Canberra Adelaide Sydney Canberra";
+        String stringData = "Darwin Brisbane Perth Melbourne Canberra Adelaide Sydney Canberra Sunderland";
         // String stringData = "5 7 3 9 8 2 1 0 4 6";
         // create new item with value set to the string s
         String[] data = stringData.split(" ");
